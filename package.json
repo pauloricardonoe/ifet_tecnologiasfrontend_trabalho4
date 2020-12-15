@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/pauloricardonoe/ifet_trabalhos_frontend/tree/master/Trabalho4",
+  "homepage": "https://pauloricardonoe.github.io/ifet_tecnologiasfrontend_trabalho4/",
   "eslintConfig": {
     "extends": [
       "react-app",
